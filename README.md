@@ -60,7 +60,7 @@ You can run Humix Think either on bluemix or run it locally. First, clone the re
 
 ### Deploy on bluemix
 
-The first step is to pick a name for your application. So enter the think directory and modify the manifest.xml
+The first step is to pick a name for your application. So enter the think directory and modify the manifest.yml
 
 ```
     vim manifest.yml
